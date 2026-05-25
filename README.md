@@ -73,7 +73,7 @@ Las tres implementaciones comparten la misma firma de ejecución desde la consol
   ```
 * **Ejecución (Descifrar):**
   ```powershell
-  
+  ./bin/aes_cuda.exe data/output/encrypted_cuda.bin data/output/decrypted_cuda.txt  000102030405060708090a0b0c0d0e0f 0123456789abcdef
   ```
 
 ---

@@ -27,6 +27,8 @@ bin/
 # Ignorar datasets pesados
 data/input/archivo_texto_real.txt
 data/input/test_100mb.txt
+data/input/guts-berserk.mp4
+data/input/sukuna.jpeg
 
 # Mantener carpeta input
 !data/input/.gitkeep
