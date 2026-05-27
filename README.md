@@ -53,7 +53,7 @@ Las tres implementaciones comparten la misma firma de ejecución desde la consol
   ```
 * **Ejecución (Cifrar usando 8 hilos):**
   ```powershell
-  ./bin/aes_omp.exe data/input/test_10mb.txt data/output/encrypted_omp.bin 000102030405060708090a0b0c0d0e0f 0123456789abcdef 8
+  ./bin/aes_omp.exe data/input/archivo_texto_real.txt data/output/encrypted_omp.bin 000102030405060708090a0b0c0d0e0f 0123456789abcdef 8
   ```
 * **Ejecución (Descifrar):**
   ```powershell
